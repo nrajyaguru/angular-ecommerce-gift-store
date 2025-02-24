@@ -1,0 +1,42 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Instant Print Camera",
+            "description": "Instant Print Camera for Kids, 1080P HD Instant Print Photo, Birthday Gifts for Age 4 5 6 7 8 9 10 Girls Boys, Portable Toy with 1 Roll Photo Paper, HD Digital Video Cameras. High Definition Dual Cameras",
+            "price": 29.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/51b6ykgBV+L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Prestige Grill Sandwich Toaster",
+            "description": "You don’t have to go out for lunch to enjoy those toasty, hot and delicious Sandwich you love. With the Prestige Sandwich Maker, you can have restaurant results at home for a fraction of the cost.",
+            "price": 139.99,
+            "imageUrl": "https://m.media-amazon.com/images/I/61wURjcgIEL._SL1200_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Sweets",
+            "description": "Bring happieness this diwali with sweets!",
+            "price": 99.99,
+            "imageUrl": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39066,resizemode-75,msid-94992159/top-trending-products/news/diwali-gifts-for-women-premium-watches-festive-sarees-apple-accessories-amazon-devices-and-so-much-more.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Amazon Fire HD 10 Kids Pro tablet",
+            "description": "Where learning meets fun – Kids can ask Alexa to play music, read a bedtime story, get help with their homework, and more. Stream songs from Amazon Music, Apple Music, Spotify, and others.",
+            "price": 219.99,
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71Wh3xdTc+L._AC_UL675_SR525,675_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Amazon Echo Dot Kids",
+            "description": "Echo Dot Kids – Our most popular and cutest smart speaker with Alexa, made for kids (not a toy). The improved speaker delivers clearer vocals and rich, vibrant sound.","price": 59.99,"imageUrl": "https://m.media-amazon.com/images/I/61K9vHlhKlL._AC_SX679_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Fire TV Stick with Alexa Voice",
+            "description": "Latest generation of our best-selling Fire TV device - 50% more powerful than the 2nd generation for fast streaming in Full HD. Includes Alexa Voice Remote with power and volume buttons.","price": 21.99,"imageUrl": "https://m.media-amazon.com/images/I/51lX5oZbtQL._AC_UF1000,1000_QL80_.jpg"
+        }
+    ]
+}

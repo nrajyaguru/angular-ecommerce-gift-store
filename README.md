@@ -2,6 +2,29 @@
 
 Online gift store where users can browse products, add them to their cart, and proceed to checkout. The cart's contents will be saved in the local storage to persist across page refreshes
 
+# Steps to Run the Application
+
+## Install json-server in your system globally or in the project using the command
+
+```bash
+npm install -g json-server
+```
+
+## Go to the src folder and run the following command to star the json server.
+
+```bash
+cd src
+json-server --watch db.json
+```
+
+## And then in another terminal run this command from your root directory to start the application
+
+```bash
+ng serve --open
+```
+
+---
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
 
 ## Development server
